@@ -34,7 +34,7 @@
 }
 .navbar ul li a:hover {
   color: white;
-  background-color: #ff9f29;
+  background-color: #f9004d;
   transition: 1s;
   border: 1px solid white;
 }
@@ -62,11 +62,11 @@ button {
   color: white;
   cursor: pointer;
   font-weight: 600;
-  background-color: #ff9f29;
+  background-color: #f9004d;
 }
 button:hover {
-  color: #ff9f29;
+  color: #f9004d;
   background-color: #fff;
-  border: 2px solid #ff9f29;
+  border: 2px solid #f9004d;
   transition: 1s;
 }

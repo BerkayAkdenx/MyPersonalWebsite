@@ -4,6 +4,9 @@
   font-family: sans-serif;
   box-sizing: border-box;
 }
+body {
+  background-color: #191919;
+}
 .aboutMe {
   width: 100%;
   height: 100%;
